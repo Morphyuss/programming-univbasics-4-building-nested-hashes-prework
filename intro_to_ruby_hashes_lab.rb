@@ -9,8 +9,7 @@ end
 
 def monopoly_with_second_tier
   {
-    :railroads => {
-      pieces: "4", rent: {}, name: {}
+    :railroads => {:pieces=> "4", :rent=> {}, :name=> {}
   }
   }
 
